@@ -1,0 +1,8 @@
+[GTG Service]
+module=gtask
+name=Google Task
+short-description=
+description=
+authors=Parth Panchal <parthpanchl@gmail.com>
+version=0.1
+enabled=False
