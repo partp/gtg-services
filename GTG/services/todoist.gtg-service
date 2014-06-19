@@ -1,0 +1,9 @@
+[GTG Service]
+module=todoist
+name=Todoist
+short-description=
+description=
+authors=Parth Panchal <parthpanchl@gmail.com>
+version=0.1
+enabled=False
+dependencies=requests
